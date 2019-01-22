@@ -1,0 +1,17 @@
+{
+  "name": "jQuery.Gantt",
+  "homepage": "https://github.com/TheOpenProjects/jQuery.Gantt",
+  "authors": [
+    "Renjel Cabaral <renjeldev@gmail.com>"
+  ],
+  "description": "Gantt chart and jquery",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
